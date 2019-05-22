@@ -6,7 +6,7 @@ body{
     color: #dd1021;
     font-family: 'Baloo Bhai', cursive;
     padding: 20px;
-    text-shadow: -2px 0 white, 0 2px white, 2px 0 white, 0 -2px white;
+    text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
 }
 
 header h1 {
